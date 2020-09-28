@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="295734" started-at="2020-09-28T13:57:15 IST" finished-at="2020-09-28T14:02:11 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="295734" started-at="2020-09-28T13:57:15 IST" finished-at="2020-09-28T14:02:11 IST">
+      <class name="com.ibm.appium.appium_projects.Task4">
+        <test-method status="PASS" signature="calc()[pri:0, instance:com.ibm.appium.appium_projects.Task4@1d8d30f7]" name="calc" is-config="true" duration-ms="13348" started-at="2020-09-28T13:59:03 IST" finished-at="2020-09-28T13:59:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calc -->
+        <test-method status="PASS" signature="addTask()[pri:0, instance:com.ibm.appium.appium_projects.Task4@1d8d30f7]" name="addTask" duration-ms="57805" started-at="2020-09-28T13:59:16 IST" finished-at="2020-09-28T14:00:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTask -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ibm.appium.appium_projects.Task4@1d8d30f7]" name="afterClass" is-config="true" duration-ms="763" started-at="2020-09-28T14:00:14 IST" finished-at="2020-09-28T14:00:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ibm.appium.appium_projects.Task4 -->
+      <class name="com.ibm.appium.appium_projects.Task3">
+        <test-method status="PASS" signature="calc()[pri:0, instance:com.ibm.appium.appium_projects.Task3@32d2fa64]" name="calc" is-config="true" duration-ms="13508" started-at="2020-09-28T13:58:30 IST" finished-at="2020-09-28T13:58:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calc -->
+        <test-method status="PASS" signature="addTask()[pri:0, instance:com.ibm.appium.appium_projects.Task3@32d2fa64]" name="addTask" duration-ms="18528" started-at="2020-09-28T13:58:44 IST" finished-at="2020-09-28T13:59:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTask -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ibm.appium.appium_projects.Task3@32d2fa64]" name="afterClass" is-config="true" duration-ms="592" started-at="2020-09-28T13:59:02 IST" finished-at="2020-09-28T13:59:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ibm.appium.appium_projects.Task3 -->
+      <class name="com.ibm.appium.appium_projects.Task2">
+        <test-method status="PASS" signature="calc()[pri:0, instance:com.ibm.appium.appium_projects.Task2@436e852b]" name="calc" is-config="true" duration-ms="13973" started-at="2020-09-28T13:58:09 IST" finished-at="2020-09-28T13:58:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calc -->
+        <test-method status="PASS" signature="addTask()[pri:0, instance:com.ibm.appium.appium_projects.Task2@436e852b]" name="addTask" duration-ms="6149" started-at="2020-09-28T13:58:23 IST" finished-at="2020-09-28T13:58:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTask -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ibm.appium.appium_projects.Task2@436e852b]" name="afterClass" is-config="true" duration-ms="807" started-at="2020-09-28T13:58:29 IST" finished-at="2020-09-28T13:58:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ibm.appium.appium_projects.Task2 -->
+      <class name="com.ibm.appium.appium_projects.Task1">
+        <test-method status="PASS" signature="calc()[pri:0, instance:com.ibm.appium.appium_projects.Task1@27808f31]" name="calc" is-config="true" duration-ms="14711" started-at="2020-09-28T13:57:15 IST" finished-at="2020-09-28T13:57:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calc -->
+        <test-method status="PASS" signature="addTask()[pri:0, instance:com.ibm.appium.appium_projects.Task1@27808f31]" name="addTask" duration-ms="38329" started-at="2020-09-28T13:57:30 IST" finished-at="2020-09-28T13:58:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTask -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ibm.appium.appium_projects.Task1@27808f31]" name="afterClass" is-config="true" duration-ms="715" started-at="2020-09-28T13:58:08 IST" finished-at="2020-09-28T13:58:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ibm.appium.appium_projects.Task1 -->
+      <class name="com.ibm.appium.appium_projects.Task6">
+        <test-method status="PASS" signature="calc()[pri:0, instance:com.ibm.appium.appium_projects.Task6@9a7504c]" name="calc" is-config="true" duration-ms="13612" started-at="2020-09-28T14:01:07 IST" finished-at="2020-09-28T14:01:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calc -->
+        <test-method status="PASS" signature="addTask()[pri:0, instance:com.ibm.appium.appium_projects.Task6@9a7504c]" name="addTask" duration-ms="49850" started-at="2020-09-28T14:01:21 IST" finished-at="2020-09-28T14:02:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTask -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ibm.appium.appium_projects.Task6@9a7504c]" name="afterClass" is-config="true" duration-ms="630" started-at="2020-09-28T14:02:10 IST" finished-at="2020-09-28T14:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ibm.appium.appium_projects.Task6 -->
+      <class name="com.ibm.appium.appium_projects.Task5">
+        <test-method status="PASS" signature="calc()[pri:0, instance:com.ibm.appium.appium_projects.Task5@3e57cd70]" name="calc" is-config="true" duration-ms="13962" started-at="2020-09-28T14:00:15 IST" finished-at="2020-09-28T14:00:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calc -->
+        <test-method status="PASS" signature="addTask()[pri:0, instance:com.ibm.appium.appium_projects.Task5@3e57cd70]" name="addTask" duration-ms="37584" started-at="2020-09-28T14:00:29 IST" finished-at="2020-09-28T14:01:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTask -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.ibm.appium.appium_projects.Task5@3e57cd70]" name="afterClass" is-config="true" duration-ms="798" started-at="2020-09-28T14:01:06 IST" finished-at="2020-09-28T14:01:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.ibm.appium.appium_projects.Task5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
